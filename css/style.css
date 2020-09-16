@@ -1,0 +1,12 @@
+body {background-color:#000000; font-family: 'Lucia Grande', sans-serif; color: #ffffff}
+h1{color: #ffffff; text-align: center; font-size: 64px }
+img {display: block; margin: auto; width: 525px; padding: 10px}
+h2 {text-shadow: 5px 5px 2px #808080; font-size: 30px}
+div {padding: 25px; height: 150px}
+p {padding-top: 20px}
+#intro {padding-top: 24px; font-size: 24px; color: #ffffff}
+#red div{background-color: #ff0000; padding-top: 24px; font-size: 24px; color: #ffffff; text-align: right}
+#blue div{background-color: #0000ff; padding-top: 24px; font-size: 24px; color: #ffffff; text-align: left}
+#yellow div{background-color: #ffff00; padding-top: 24px; font-size: 24px; color: #000000; text-shadow: 5px 5px 2px #c7e2c7; text-align: right}
+#green div{background-color: #008000; padding-top: 24px; font-size: 24px; color: #ffffff; text-align: left}
+footer div{text-align: right; padding-bottom: 10px; padding-right: 10px; color: #ffffff}
